@@ -54,14 +54,3 @@
 ![Screenshot ](https://github.com/zenn99-arch/zenn99-arch/assets/72511459/73aefe7d-0a19-4761-84a3-7507cd9705b7)
 ![Screenshot 2023-08-14 062149](https://github.com/zenn99-arch/zenn99-arch/assets/72511459/59f1fcac-b8ab-4c8e-8765-b5d85fed4b29)
 
-
-### Hi there 👋
-
-- 🔭 I’m currently working on Web Devlopment.
-- 🌱 I’m currently learning Aws.
-- 👯 I’m looking to collaborate on anything.
-- 📫 How to reach me: Look me up on <a href='https://www.linkedin.com/in/bimal-ray-abb5b0175'>LinkedIn</a>
-- 😄 Pronouns: Early bird.
-
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bimal-ray99&theme=radical)
