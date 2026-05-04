@@ -132,4 +132,4 @@
   </a>
 </p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bimal-ray99&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bimal-ray99&theme=radical)
