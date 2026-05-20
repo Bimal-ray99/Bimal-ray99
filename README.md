@@ -3,7 +3,7 @@
 
 #### Sum Clotico.
 - Url: https://sumclotico.vercel.app/
-![sumclothico ]<img width="1919" height="957" alt="image" src="https://github.com/user-attachments/assets/2b2d7c76-0ec2-4b8d-afba-d9933b90a8af" />
+<img width="1919" height="957" alt="image" src="https://github.com/user-attachments/assets/2b2d7c76-0ec2-4b8d-afba-d9933b90a8af" />
 <img width="1919" height="959" alt="image" src="https://github.com/user-attachments/assets/ebcb2aea-01ca-45b7-a409-521770bee69f" />
 <img width="1919" height="956" alt="image" src="https://github.com/user-attachments/assets/66fa2e72-31a2-4125-bb56-a0f34fe1e75d" />
 
