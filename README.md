@@ -2,7 +2,7 @@
 
 #### Spawnpoint — Production-Grade Gaming Cafe.
 - Url: https://github.com/Bimal-ray99/spawn-point
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/0a2096b8-f1fc-4085-a29f-020a6694be3e" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/d4e7871e-9a75-4ff5-a69e-b8fb918276dd" />
 
 #### Gully - Proximity-First Social.
 - Url: https://github.com/Bimal-ray99/gully
