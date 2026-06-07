@@ -1,31 +1,26 @@
 ## Treat for eyes 
 
+#### Spawnpoint — Production-Grade Gaming Cafe.
+- Url: https://github.com/Bimal-ray99/spawn-point
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/bb38d05d-7049-426a-8f35-22fbffa3179c" />
+
+#### Gully - Proximity-First Social.
+- Url: https://github.com/Bimal-ray99/gully
+<img width="1774" height="887" alt="image" src="https://github.com/user-attachments/assets/1f8cea8a-6d7a-483f-a667-d2fea41980d8" />
+
+#### Beat it - Production-Grade Sports & Turf Platform Backend.
+- Url: https://github.com/Bimal-ray99/beat-it
+<img width="1774" height="887" alt="image" src="https://github.com/user-attachments/assets/9975f143-187e-4166-85b7-be43ffe46aff" />
+
+#### Cashback Backend — Coupon Redemption.
+- Url: https://github.com/Bimal-ray99/cashback-campaign
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/6aa05fc4-e902-4725-a408-8b03c58c311c" />
 
 #### Sum Clotico.
 - Url: https://sumclotico.vercel.app/
 <img width="1919" height="957" alt="image" src="https://github.com/user-attachments/assets/2b2d7c76-0ec2-4b8d-afba-d9933b90a8af" />
 <img width="1919" height="959" alt="image" src="https://github.com/user-attachments/assets/ebcb2aea-01ca-45b7-a409-521770bee69f" />
 <img width="1919" height="956" alt="image" src="https://github.com/user-attachments/assets/66fa2e72-31a2-4125-bb56-a0f34fe1e75d" />
-
-#### Js brand integration Game devlopment
-- url: https://phaser-mumbai-indian-game.vercel.app/
-![image](https://github.com/user-attachments/assets/b66fe6c8-0a44-4bed-9773-daf46c64fc0a)
-![image](https://github.com/user-attachments/assets/3494d518-7609-40fd-8be2-cef4da008453)
-
-#### Spawnpoint — Production-Grade Gaming Cafe Backend.
-- Url: https://github.com/Bimal-ray99/spawn-point
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/bb38d05d-7049-426a-8f35-22fbffa3179c" />
-
-
-#### Iphone 16 Webclone.
-- Url: https://react-iphone16-clone.vercel.app/
-![image](https://github.com/user-attachments/assets/885db027-a1a8-47f2-902f-789ec8f54e2b)
-![image](https://github.com/user-attachments/assets/92c50af1-9165-47d3-9d09-5b905241dc3d)
-
-#### Dji mavic3 Webclone.
-- Url: https://react-webclone-djimavic3.vercel.app/
-![image](https://github.com/user-attachments/assets/ef80cdc0-ec1b-4536-b329-f1c9825c8a76)
-![image](https://github.com/user-attachments/assets/89f47e8b-7fbe-4a9d-9982-dc915c4e6c26)
 
 #### Make Pill Webclone
 - Url: https://ts-makepill-website-clone.vercel.app/
