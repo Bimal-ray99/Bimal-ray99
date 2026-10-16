@@ -29,4 +29,4 @@
 
 
 ## LeetCode Stats
-[![LeetCode Stats](https://leetcode.com/u/zenn99-arch?theme=dark)](https://leetcode.com/u/zenn99-arch)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/zenn99-arch?theme=dark)](https://leetcard.jacoblin.cool/zenn99-arch?theme=dark)
