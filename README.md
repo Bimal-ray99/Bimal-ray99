@@ -28,9 +28,9 @@
 ![Screenshot 2023-08-14 062149](https://github.com/zenn99-arch/zenn99-arch/assets/72511459/59f1fcac-b8ab-4c8e-8765-b5d85fed4b29)
 
 
-## LeetCode Stats
+## Stats
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://competative-cards.vercel.app/api/card?leetcode=zenn99-arch&codeforces=bimal.ray99&type=combined&theme=github-dark&radius=17&top_skills=7&top_langs=4" />
-  <source media="(prefers-color-scheme: light)" srcset="https://competative-cards.vercel.app/api/card?leetcode=zenn99-arch&codeforces=bimal.ray99&type=combined&theme=github-light&radius=17&top_skills=7&top_langs=4" />
-  <img alt="github-light stats card" src="https://competative-cards.vercel.app/api/card?leetcode=zenn99-arch&codeforces=bimal.ray99&type=combined&theme=github-dark&radius=17&top_skills=7&top_langs=4" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://competative-cards.vercel.app/api/card?leetcode=zenn99-arch&codeforces=bimal.ray99&type=duet&theme=default" />
+  <source media="(prefers-color-scheme: light)" srcset="https://competative-cards.vercel.app/api/card?leetcode=zenn99-arch&codeforces=bimal.ray99&type=duet&theme=github-light" />
+  <img alt="github-light stats card" src="https://competative-cards.vercel.app/api/card?leetcode=zenn99-arch&codeforces=bimal.ray99&type=duet&theme=default" />
 </picture>
