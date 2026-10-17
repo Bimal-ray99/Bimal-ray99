@@ -29,7 +29,7 @@
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://competative-cards.vercel.app/api/card?leetcode=zenn99-arch&codeforces=bimal.ray99&type=duet&theme=merko&title=stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://competative-cards.vercel.app/api/card?leetcode=zenn99-arch&codeforces=bimal.ray99&type=duet&theme=default&title=stats" />
   <source media="(prefers-color-scheme: light)" srcset="https://competative-cards.vercel.app/api/card?leetcode=zenn99-arch&codeforces=bimal.ray99&type=duet&theme=github-light&title=stats" />
-  <img alt="github-light stats card" src="https://competative-cards.vercel.app/api/card?leetcode=zenn99-arch&codeforces=bimal.ray99&type=duet&theme=merko&title=stats" />
+  <img alt="github-light stats card" src="https://competative-cards.vercel.app/api/card?leetcode=zenn99-arch&codeforces=bimal.ray99&type=duet&theme=default&title=stats" />
 </picture>
