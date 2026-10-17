@@ -29,4 +29,8 @@
 
 
 ## LeetCode Stats
-[![LeetCode Stats](https://leetcard.jacoblin.cool/zenn99-arch?theme=dark)](https://leetcard.jacoblin.cool/zenn99-arch?theme=dark)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://competative-cards.vercel.app/api/card?leetcode=zenn99-arch&codeforces=bimal.ray99&type=combined&theme=github-dark&radius=17&top_skills=7&top_langs=4" />
+  <source media="(prefers-color-scheme: light)" srcset="https://competative-cards.vercel.app/api/card?leetcode=zenn99-arch&codeforces=bimal.ray99&type=combined&theme=github-light&radius=17&top_skills=7&top_langs=4" />
+  <img alt="github-light stats card" src="https://competative-cards.vercel.app/api/card?leetcode=zenn99-arch&codeforces=bimal.ray99&type=combined&theme=github-dark&radius=17&top_skills=7&top_langs=4" />
+</picture>
