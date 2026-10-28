@@ -1,6 +1,6 @@
 ## Treat for eyes 
 
-#### Spawnpoint - Production-Grade Gaming Cafe.
+#### Spawnpoint - Gaming Cafe.
 - Url: https://github.com/Bimal-ray99/spawn-point
 <img width="1536" height="1024" alt="Spawn Point System Architecture Diagram" src="https://github.com/user-attachments/assets/ac53b10c-e756-42c3-92c0-5a7cb76f6a06" />
 
@@ -8,11 +8,11 @@
 - Url: https://github.com/Bimal-ray99/gully
 <img width="1774" height="887" alt="image" src="https://github.com/user-attachments/assets/1f8cea8a-6d7a-483f-a667-d2fea41980d8" />
 
-#### Beat it - Production-Grade Sports & Turf Platform Backend.
+#### Beat it - Sports & Turf Platform Backend.
 - Url: https://github.com/Bimal-ray99/beat-it
 <img width="1774" height="887" alt="image" src="https://github.com/user-attachments/assets/9975f143-187e-4166-85b7-be43ffe46aff" />
 
-#### Cashback Backend - Coupon Redemption.
+#### Cashback - Coupon Redemption.
 - Url: https://github.com/Bimal-ray99/cashback-campaign
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/6aa05fc4-e902-4725-a408-8b03c58c311c" />
 
