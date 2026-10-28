@@ -1,6 +1,6 @@
 ## Treat for eyes 
 
-#### Spawnpoint — Production-Grade Gaming Cafe.
+#### Spawnpoint - Production-Grade Gaming Cafe.
 - Url: https://github.com/Bimal-ray99/spawn-point
 <img width="5270" height="6350" alt="sp" src="https://github.com/user-attachments/assets/ba268d88-286c-41ec-aa07-228040bb570c" />
 
@@ -12,7 +12,7 @@
 - Url: https://github.com/Bimal-ray99/beat-it
 <img width="1774" height="887" alt="image" src="https://github.com/user-attachments/assets/9975f143-187e-4166-85b7-be43ffe46aff" />
 
-#### Cashback Backend — Coupon Redemption.
+#### Cashback Backend - Coupon Redemption.
 - Url: https://github.com/Bimal-ray99/cashback-campaign
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/6aa05fc4-e902-4725-a408-8b03c58c311c" />
 
